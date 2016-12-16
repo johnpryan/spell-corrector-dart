@@ -1,3 +1,5 @@
 name: spell_corrector
+dependencies:
+  resource: any
 dev_dependencies:
   test: any
