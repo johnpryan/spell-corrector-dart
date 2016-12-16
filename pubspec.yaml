@@ -1,5 +1,10 @@
 name: spell_corrector
+description: Dart wrapper for Amazon AWS
+version: 1.0.0
+author: John Ryan <john.p.ryan4@gmail.com>
+homepage: https://github.com/johnpryan/spell-corrector-dart
+
 dependencies:
-  resource: any
+  resource: ">=2.0.2 <3.0.0"
 dev_dependencies:
   test: any
