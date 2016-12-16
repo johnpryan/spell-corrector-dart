@@ -1,4 +1,4 @@
-# spell-corrector-dart
+# spell_corrector
 Port of Peter Norvig's spelling corrector http://norvig.com/spell-correct.html
 
 ## Usage
@@ -12,7 +12,7 @@ main() {
 }
 ```
 
-## Command Line interface
+## Command line interface
 
 run `pub global activate spell_corrector` to activate:
  
